@@ -10,7 +10,7 @@ android {
     compileSdkVersion 33
 
     defaultConfig {
-        applicationId "com.androiddevs.shoppinglisttestingyt"
+        applicationId "mn.turbo.shopping"
         minSdkVersion 26
         targetSdkVersion 33
         versionCode 1

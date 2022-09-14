@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.androiddevs.shoppinglisttestingyt
+package mn.turbo.shopping
 
 import androidx.annotation.VisibleForTesting
 import androidx.lifecycle.LiveData

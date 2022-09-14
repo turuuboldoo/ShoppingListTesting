@@ -1,4 +1,4 @@
-package com.androiddevs.shoppinglisttestingyt
+package mn.turbo.shopping
 
 import org.junit.Test
 

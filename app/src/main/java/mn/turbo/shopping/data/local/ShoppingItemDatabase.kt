@@ -1,4 +1,4 @@
-package com.androiddevs.shoppinglisttestingyt.data.local
+package mn.turbo.shopping.data.local
 
 import androidx.room.Database
 import androidx.room.RoomDatabase

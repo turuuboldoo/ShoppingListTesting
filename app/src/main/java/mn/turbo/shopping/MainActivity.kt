@@ -1,8 +1,8 @@
-package com.androiddevs.shoppinglisttestingyt
+package mn.turbo.shopping
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.androiddevs.shoppinglisttestingyt.databinding.ActivityMainBinding
+import mn.turbo.shopping.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
